@@ -79,7 +79,7 @@ La frase "**Mi fruta favorita es el mango**" aparecerá en color verde, dado que
 
 Hasta el momento hemos visto cómo utilizar un selector para especificar un elemento, pero podemos combinar **cualquiera** estos selectores siguiendo las siguientes reglas:
 
-* Si escribimos los selectores separados por un espacio estamos haciendo referencia al etiquetas anidadas dentro de otras.
+* Si escribimos los selectores separados por un espacio estamos haciendo referencia a las etiquetas anidadas dentro de otras.
 * Si añadimos los selectores sin separar por un espacio estamos haciendo referencia a un mismo elemento de una manera más específica.
 * Para entender cómo se aplican los selectores debes leerlos de derecha a izquierda
 * El último selector antes del caracter "**{**" será al que se le aplique el estilo.
